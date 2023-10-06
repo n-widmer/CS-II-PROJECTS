@@ -1,0 +1,8 @@
+Infix expression: ( ( A + B ) * ( K + L ) ) 
+PostFix expression: A B + K L + *
+Infix expression: ( ( 1 + 3 ) + ( 3 / 6 ) * 7 ) 
+PostFix expression: 3 6 / 7 *
+Infix expression: ( ( A * B ) + ( C / D ) ) 
+PostFix expression: A B * C D / +
+Infix expression: ( ( ( a + b ) ∗ c ) - d ) 
+PostFix expression: a b + c ∗ d -
